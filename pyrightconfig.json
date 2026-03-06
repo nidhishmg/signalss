@@ -1,0 +1,9 @@
+{
+  "extraPaths": ["AI-Silent-Disease-Predictor"],
+  "typeCheckingMode": "off",
+  "reportMissingImports": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportArgumentType": "none",
+  "reportOperatorIssue": "none",
+  "reportAssignmentType": "none"
+}
